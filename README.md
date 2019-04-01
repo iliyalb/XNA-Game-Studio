@@ -28,10 +28,10 @@ Place all .dll files located in Microsoft Build Framework folder inside the foll
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\15.0\Bin
 ```
 
-Open the Visual Studio 2017 developer command prompt by searching for `Developer command prompt for VS 2017` as administrator and execute the following codes:
+Open the Visual Studio developer command prompt by searching for `Developer command prompt for VS 2019` as administrator and execute the following codes:
 
 ```
-cd C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin
+cd C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\15.0\Bin
 ```
 
 and
